@@ -144,7 +144,7 @@ BASE_ALIASES = {
 }
 
 # Admin Constants
-BANNED_WORDS = []
+BANNED_WORDS = ['fuck', 'shit', 'cuck']
 PLACEHOLDER_NICKNAME = "Valued server member"
 NICKNAME_PATTERNS = [
     r"(discord\.gg/)",  # invite links
